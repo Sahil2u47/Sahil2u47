@@ -244,7 +244,7 @@ Comprehensive full-stack Java developer training program covering enterprise app
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sahil2u47&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=20)](https://github.com/Sahil2u47)
+<img src="https://github-profile-trophy.vercel.app/?username=Sahil2u47&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=20" alt="GitHub Trophies" />
 
 </div>
 
