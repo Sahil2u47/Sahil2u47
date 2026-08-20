@@ -23,6 +23,14 @@
 
 </div>
 
+## 🐍 Contribution Streak
+
+<div align="center">
+
+![Snake animation](https://github.com/Sahil2u47/Sahil2u47/raw/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
 ---
 
 ## 👨‍💻 About Me
@@ -252,13 +260,7 @@ Comprehensive full-stack Java developer training program covering enterprise app
 
 ---
 
-## 🐍 Contribution Streak
 
-<div align="center">
-
-![Snake animation](https://github.com/Sahil2u47/Sahil2u47/raw/output/github-contribution-grid-snake-dark.svg)
-
-</div>
 
 ---
 
