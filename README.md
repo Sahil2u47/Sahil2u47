@@ -12,7 +12,7 @@
 [![QSpiders](https://img.shields.io/badge/Training-QSpiders-7c3aed?style=flat-square&logo=landmark&logoColor=white)](https://www.qspiders.com/)
 [![Location](https://img.shields.io/badge/Location-Faridabad/Noida-5b21b6?style=flat-square&logo=maps&logoColor=white)](https://github.com/Sahil2u47)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-667eea?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/Sahil2u47)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sahil-anwar)
 [![Email](https://img.shields.io/badge/Email-Get%20In%20Touch-667eea?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahil@example.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-667eea?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sahil2u47)
