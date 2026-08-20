@@ -56,7 +56,6 @@ Passionate **Full Stack Java Developer** with hands-on experience building enter
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![CSS-in-JS](https://img.shields.io/badge/CSS%20in%20JS-667eea?style=for-the-badge&logo=styled-components&logoColor=white)
-![Material-UI](https://img.shields.io/badge/Material--UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-667eea?style=for-the-badge&logo=fastapi&logoColor=white)
 
 </div>
