@@ -238,15 +238,6 @@ Comprehensive full-stack Java developer training program covering enterprise app
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sahil2u47&theme=tokyonight&column=7&margin-w=20" alt="GitHub Trophies" />
-
-</div>
 
 ---
 
