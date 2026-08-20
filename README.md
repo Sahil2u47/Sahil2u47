@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=667eea&height=200&section=header&text=Sahil%20Anwar&fontSize=90&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=667eea&height=200&section=header&text=Sahid%20Anwar&fontSize=90&fontColor=ffffff&animation=fadeIn" />
 
 <p align="center">
   <a href="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=667eea&center=true&vCenter=true&width=600&lines=Full+Stack+Java+Developer;Spring+Boot+%26+REST+APIs;Enterprise+Software+Engineer">
