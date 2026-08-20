@@ -66,6 +66,7 @@ Passionate **Full Stack Java Developer** with hands-on experience building enter
 [![Servlet](https://img.shields.io/badge/Servlet-007396?style=for-the-badge&logo=java&logoColor=white)](https://jakarta.ee/specifications/servlet)
 [![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)](https://jwt.io)
 [![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white)](https://jakarta.ee/specifications/pages)
+[![REST APIs](https://img.shields.io/badge/REST_APIs-667eea?style=for-the-badge&logo=fastapi&logoColor=white)](https://en.wikipedia.org/wiki/REST)
 
 </div>
 
