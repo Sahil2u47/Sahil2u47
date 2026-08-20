@@ -256,7 +256,7 @@ Comprehensive full-stack Java developer training program covering enterprise app
 
 <div align="center">
 
-![Snake animation](https://github.com/Sahil2u47/Sahil2u47/raw/output/github-contribution-grid-snake-dark.svg)
+![Snake Animation](https://github.com/Sahil2u47/Sahil2u47/raw/main/dist/github-contribution-grid-snake.svg)
 
 </div>
 
