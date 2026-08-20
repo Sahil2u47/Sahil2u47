@@ -233,11 +233,11 @@ Comprehensive full-stack Java developer training program covering enterprise app
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sahil2u47&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=8b949e&icon_color=667eea&include_all_commits=true&count_private=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sahil2u47&show_icons=true&theme=dark&hide_border=true&bg_color=1a1b27&title_color=667eea&text_color=d0d0d0&icon_color=667eea)](https://github.com/Sahil2u47)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Sahil2u47&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=667eea&fire=667eea&currStreakNum=8b949e&sideNums=8b949e&currStreakLabel=667eea&sideLabels=667eea&dates=8b949e)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Sahil2u47&theme=dark&hide_border=true&background=1a1b27&stroke=667eea&ring=667eea&fire=667eea)](https://github.com/Sahil2u47)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil2u47&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=8b949e&layout=compact)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil2u47&theme=dark&hide_border=true&bg_color=1a1b27&title_color=667eea&text_color=d0d0d0&layout=compact)](https://github.com/Sahil2u47)
 
 </div>
 
