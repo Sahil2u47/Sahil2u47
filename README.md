@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=667eea&height=200&section=header&text=Sahil%20Anwar&fontSize=90&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=667eea&height=200&section=header&text=Sahid%20Anwar&fontSize=90&fontColor=ffffff&animation=fadeIn" />
 
 <p align="center">
   <a href="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=667eea&center=true&vCenter=true&width=600&lines=Full+Stack+Java+Developer;Spring+Boot+%26+REST+APIs;Enterprise+Software+Engineer">
@@ -34,15 +34,7 @@ Passionate **Full Stack Java Developer** with hands-on experience building enter
 ### 🎯 Open To
 - **Roles:** SDE Fresher, Java Backend Developer, Associate Software Engineer, Full Stack Developer
 - **Locations:** Faridabad, Noida, Gurugram, Remote
-- **Focus:** Enterprise Java, Microservices, Cloud-native Development
-
----
-
-<div align="center">
-
-![Snake animation](https://github.com/Sahil2u47/Sahil2u47/raw/output/github-contribution-grid-snake-dark.svg)
-
-</div>
+- **Focus:** Enterprise Java, Microservices
 
 ---
 
@@ -59,15 +51,7 @@ Passionate **Full Stack Java Developer** with hands-on experience building enter
 
 </div>
 
-### 🎨 Frontend
-<div align="center">
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![CSS-in-JS](https://img.shields.io/badge/CSS%20in%20JS-667eea?style=for-the-badge&logo=styled-components&logoColor=white)
-![Material-UI](https://img.shields.io/badge/Material--UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-667eea?style=for-the-badge&logo=fastapi&logoColor=white)
-
-</div>
 
 ### 🏗️ Backend & Databases
 <div align="center">
@@ -198,7 +182,7 @@ Spring Boot with Spring Data JPA implementing complete layered architecture. Int
 <div align="center">
 
 ### Java Developer Training
-**QSpiders | Faridabad/Noida | 1 Year**
+**QSpiders | Noida | 1 Year**
 
 </div>
 
@@ -221,9 +205,6 @@ Comprehensive full-stack Java developer training program covering enterprise app
 <div align="center">
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/sahil2u47)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/sahil2u47)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/sahil2u47)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4D9F?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/sahil2u47)
 
 </div>
 
@@ -233,11 +214,19 @@ Comprehensive full-stack Java developer training program covering enterprise app
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sahil2u47&show_icons=true&theme=dark&hide_border=true&bg_color=1a1b27&title_color=667eea&text_color=d0d0d0&icon_color=667eea)](https://github.com/Sahil2u47)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sahil2u47&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=8b949e&icon_color=667eea)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Sahil2u47&theme=dark&hide_border=true&background=1a1b27&stroke=667eea&ring=667eea&fire=667eea)](https://github.com/Sahil2u47)
+</div>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil2u47&theme=dark&hide_border=true&bg_color=1a1b27&title_color=667eea&text_color=d0d0d0&layout=compact)](https://github.com/Sahil2u47)
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sahil2u47&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=667eea&fire=667eea&currStreakNum=8b949e&sideNums=8b949e&currStreakLabel=667eea&sideLabels=667eea&dates=8b949e)
+
+</div>
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil2u47&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=8b949e&layout=compact)
 
 </div>
 
@@ -247,17 +236,27 @@ Comprehensive full-stack Java developer training program covering enterprise app
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sahil2u47&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sahil2u47&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=20)](https://github.com/Sahil2u47)
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <div align="center">
 
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Sahil2u47&theme=tokyo-night&hide_border=true&bg_color=0d1117&line=667eea&point=667eea&area_color=667eea)
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Sahil2u47&theme=tokyo-night&hide_border=true&bg_color=0d1117&line=667eea&point=667eea)
+
+</div>
+
+---
+
+## 🐍 Contribution Streak
+
+<div align="center">
+
+![Snake animation](https://github.com/Sahil2u47/Sahil2u47/raw/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -269,9 +268,7 @@ Comprehensive full-stack Java developer training program covering enterprise app
 Learning:
   - Advanced Spring Boot architecture patterns
   - Microservices design with Spring Cloud
-  - Cloud deployment with AWS/Azure
-  - System design and scalability
-  - Distributed systems fundamentals
+  - Redis for query optimization
 
 Building:
   - Multi-vendor e-commerce platform with payment integration
@@ -282,7 +279,6 @@ Building:
 Exploring:
   - Design patterns in enterprise applications
   - Advanced database optimization techniques
-  - Kubernetes containerization and orchestration
   - Message queues and asynchronous processing
 
 Open To:
@@ -301,7 +297,6 @@ Open To:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahil@example.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sahil-anwar)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sahil2u47)
-[![Portfolio](https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/Sahil2u47)
 
 </div>
 
