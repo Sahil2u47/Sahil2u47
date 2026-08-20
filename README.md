@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=667eea&height=200&section=header&text=Sahid%20Anwar&fontSize=90&fontColor=ffffff&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=667eea&height=200&section=header&text=Sahid%20Anwar&fontSize=90&fontColor=ffffff&animation=fadeIn" />
 
 <p align="center">
-  <a href="https://readme-typing-svg.herokuapp.com/">
+  <a href="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=667eea&center=true&vCenter=true&width=600&lines=Full+Stack+Java+Developer;Spring+Boot+%26+REST+APIs;Enterprise+Software+Engineer">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=667eea&center=true&vCenter=true&width=600&lines=Full+Stack+Java+Developer;Spring+Boot+%26+REST+APIs;Enterprise+Software+Engineer" alt="Typing SVG" />
   </a>
 </p>
@@ -10,7 +10,7 @@
 
 [![BCA](https://img.shields.io/badge/Education-BCA-667eea?style=flat-square&logo=graduation-cap&logoColor=white)](https://github.com/Sahil2u47)
 [![QSpiders](https://img.shields.io/badge/Training-QSpiders-7c3aed?style=flat-square&logo=landmark&logoColor=white)](https://www.qspiders.com/)
-[![Location](https://img.shields.io/badge/Location-Faridabad%2FNoida-5b21b6?style=flat-square&logo=maps&logoColor=white)](https://github.com/Sahil2u47)
+[![Location](https://img.shields.io/badge/Location-Faridabad/Noida-5b21b6?style=flat-square&logo=maps&logoColor=white)](https://github.com/Sahil2u47)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-667eea?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/Sahil2u47)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sahil-anwar)
@@ -32,7 +32,6 @@ Passionate **Full Stack Java Developer** with hands-on experience building enter
 **Software Engineer** focused on product engineering, clean code architecture, and solving real-world problems through robust solutions. Committed to continuous learning and contributing to open-source initiatives. Experienced in designing multi-vendor platforms, role-based access control systems, and high-concurrency environments with optimistic locking strategies.
 
 ### 🎯 Open To
-
 - **Roles:** SDE Fresher, Java Backend Developer, Associate Software Engineer, Full Stack Developer
 - **Locations:** Faridabad, Noida, Gurugram, Remote
 - **Focus:** Enterprise Java, Microservices
@@ -42,7 +41,6 @@ Passionate **Full Stack Java Developer** with hands-on experience building enter
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-
 <div align="center">
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -53,26 +51,26 @@ Passionate **Full Stack Java Developer** with hands-on experience building enter
 
 </div>
 
-### 🏗️ Backend & Databases
 
+
+### 🏗️ Backend & Databases
 <div align="center">
 
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
 [![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)](https://spring.io/projects/spring-security)
-[![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
+[![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io)
 [![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/projects/spring-data-jpa)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)](https://hibernate.org/)
-[![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white)](https://docs.oracle.com/javase/tutorial/jdbc/)
-[![Servlet](https://img.shields.io/badge/Servlet-007396?style=for-the-badge&logo=java&logoColor=white)](https://jakarta.ee/specifications/servlet/)
-[![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)](https://jwt.io/)
-[![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white)](https://jakarta.ee/specifications/pages/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
+[![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)](https://hibernate.org)
+[![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white)](https://docs.oracle.com/javase/tutorial/jdbc)
+[![Servlet](https://img.shields.io/badge/Servlet-007396?style=for-the-badge&logo=java&logoColor=white)](https://jakarta.ee/specifications/servlet)
+[![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)](https://jwt.io)
+[![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white)](https://jakarta.ee/specifications/pages)
 [![REST APIs](https://img.shields.io/badge/REST_APIs-667eea?style=for-the-badge&logo=fastapi&logoColor=white)](https://en.wikipedia.org/wiki/REST)
 
 </div>
 
 ### 🧰 Tools & Platforms
-
 <div align="center">
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -184,7 +182,6 @@ Spring Boot with Spring Data JPA implementing complete layered architecture. Int
 <div align="center">
 
 ### Java Developer Training
-
 **QSpiders | Noida | 1 Year**
 
 </div>
@@ -192,7 +189,6 @@ Spring Boot with Spring Data JPA implementing complete layered architecture. Int
 Comprehensive full-stack Java developer training program covering enterprise application development, design patterns, and production-ready code practices. Developed expertise in Spring Boot ecosystem, RESTful API design, database management, and frontend integration.
 
 **Key Responsibilities:**
-
 - Architected and developed multiple full-stack applications from ground up
 - Implemented secure authentication and authorization mechanisms using Spring Security and JWT
 - Designed database schemas with complex relationships and optimized query performance
@@ -218,19 +214,19 @@ Comprehensive full-stack Java developer training program covering enterprise app
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sahil2u47&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=8b949e&icon_color=667eea" alt="GitHub Stats" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sahil2u47&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=8b949e&icon_color=667eea)
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Sahil2u47&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=667eea&fire=667eea&currStreakNum=8b949e&sideNums=8b949e&currStreakLabel=667eea&sideLabels=667eea&dates=8b949e" alt="GitHub Streak" />
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sahil2u47&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=667eea&fire=667eea&currStreakNum=8b949e&sideNums=8b949e&currStreakLabel=667eea&sideLabels=667eea&dates=8b949e)
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil2u47&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=8b949e&layout=compact" alt="Top Languages" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil2u47&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=8b949e&layout=compact)
 
 </div>
 
@@ -240,7 +236,7 @@ Comprehensive full-stack Java developer training program covering enterprise app
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Sahil2u47&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=20" alt="GitHub Trophies" />
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sahil2u47&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=20)](https://github.com/Sahil2u47)
 
 </div>
 
@@ -250,7 +246,7 @@ Comprehensive full-stack Java developer training program covering enterprise app
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sahil2u47&theme=tokyo-night&hide_border=true&bg_color=0d1117&line=667eea&point=667eea" alt="GitHub Activity Graph" />
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Sahil2u47&theme=tokyo-night&hide_border=true&bg_color=0d1117&line=667eea&point=667eea)
 
 </div>
 
@@ -260,7 +256,7 @@ Comprehensive full-stack Java developer training program covering enterprise app
 
 <div align="center">
 
-<img src="https://github.com/Sahil2u47/Sahil2u47/raw/main/dist/github-contribution-grid-snake.svg" alt="Snake Animation" />
+![Snake animation](https://github.com/Sahil2u47/Sahil2u47/raw/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -290,3 +286,29 @@ Open To:
   - Mentoring and code reviews
   - Technical discussions and knowledge sharing
   - Full-time opportunities in product engineering
+```
+
+---
+
+## 📬 Connect With Me
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahil@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sahil-anwar)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sahil2u47)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+"Code is poetry written for machines, but read by humans. 
+ Write code that makes others smile."
+```
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=667eea&height=100&section=footer" />
