@@ -268,9 +268,7 @@ Comprehensive full-stack Java developer training program covering enterprise app
 Learning:
   - Advanced Spring Boot architecture patterns
   - Microservices design with Spring Cloud
-  - Cloud deployment with AWS/Azure
-  - System design and scalability
-  - Distributed systems fundamentals
+  - Redis for query optimization
 
 Building:
   - Multi-vendor e-commerce platform with payment integration
@@ -281,7 +279,6 @@ Building:
 Exploring:
   - Design patterns in enterprise applications
   - Advanced database optimization techniques
-  - Kubernetes containerization and orchestration
   - Message queues and asynchronous processing
 
 Open To:
