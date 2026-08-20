@@ -34,7 +34,7 @@ Passionate **Full Stack Java Developer** with hands-on experience building enter
 ### 🎯 Open To
 - **Roles:** SDE Fresher, Java Backend Developer, Associate Software Engineer, Full Stack Developer
 - **Locations:** Faridabad, Noida, Gurugram, Remote
-- **Focus:** Enterprise Java, Microservices, Cloud-native Development
+- **Focus:** Enterprise Java, Microservices
 
 ---
 
