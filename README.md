@@ -189,7 +189,7 @@ Spring Boot with Spring Data JPA implementing complete layered architecture. Int
 
 <div align="center">
 
-### Java Developer Training
+### Java Full Stack Training
 **QSpiders | Noida | 1 Year**
 
 </div>
